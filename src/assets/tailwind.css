@@ -5,7 +5,7 @@
 @tailwind utilities;
 
 @layer components {
-  .custom-bg {
+  /* .custom-bg {
     @apply bg-custom bg-center;
-  }
+  } */
 }
